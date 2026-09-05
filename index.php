@@ -59,7 +59,7 @@ lihat();  //menjalankan function lihat
         <h1>Berbagai Jenis Payung</h1>
         <h1>Dengan Kualitas Terbaik</h1>
         <p><i class="fa-solid fa-location-dot"></i> Jl. Galur sari III, No. 173F Kel. Utan Kayu Selatan, Jakarta Timur</p>
-        <p><i class="fa-brands fa-whatsapp"></i> 081389832063</p>
+        <p><i class="fa-brands fa-whatsapp"></i> 081389832063 - 081214691427</p>
         <p><i class="fa-regular fa-envelope"></i> berkat.family@gmail.com</p>
         <div class="button-pesan">
           <a href="https://wa.me/6281389832063"> Pesan Sekarang</a>
@@ -73,7 +73,7 @@ lihat();  //menjalankan function lihat
     </div>
     <!-- tombol-whatsapp -->
     <div class="tombol-whatsapp" style="z-index:2;">
-      <a href="https://wa.me/6281389832063"><i class="fa-brands fa-whatsapp"></i></a>
+      <a href="https://wa.me/6281214691427?text=Halo,%20saya%20mau%20tanya-tanya%20tentang%20produk%20payung%20anda.><i class=" fa-brands fa-whatsapp"></i></a>
     </div>
     <!-- end-tombol-whatsapp -->
   </div>
