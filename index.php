@@ -99,12 +99,12 @@ lihat();  //menjalankan function lihat
   <!-- jenis payung -->
   <div class="content" id="jenis_payung">
     <div class="title">
-      <h2>Jenis Payungs</h2>
+      <h2>Jenis Payung</h2>
     </div>
     <div class="row">
 
       <div class="col">
-        <img src="img/golf/golf1.jpg.jpg" alt="" class="center">
+        <img src="img/golf/golf1.jpg" alt="" class="center">
         <h3>Payung Golf</h3>
         <a href="payunggolf.php">Lihat galeri produk <i class="fa-solid fa-circle-right"></i></a>
       </div>
