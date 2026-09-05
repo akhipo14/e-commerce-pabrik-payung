@@ -27,7 +27,7 @@ lihat();	//menjalankan function lihat
     <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
 		<script src="https://unpkg.com/scrollreveal"></script>
 		<link rel="icon" href="img/logo.png">
-    <title>Payung Berkat Family</title>
+    <title>Pabrik Payung jakarta</title>
   </head>
   <body>
     <div class="navbar">
@@ -38,7 +38,7 @@ lihat();	//menjalankan function lihat
       </label>
 
       <div class="logo batas-kiri">
-        <h3>Payung Berkat Family</h3>
+        <h3>Pabrik Payung Jakarta</h3>
       </div>
       <div class="nav batas-kanan">
         <ul>
@@ -52,7 +52,7 @@ lihat();	//menjalankan function lihat
     <div class="header" id="header">
         <div class="cover-header" >
           <div class="text batas-kiri">
-            <p class="t-1">Selamat Datang di website Payung Berkat Family</p>
+            <p class="t-1">Selamat Datang di website Pabrik Payung jakarta</p>
             <h1>Berbagai Jenis Payung</h1>
             <h1>Dengan Kualitas Terbaik</h1>
             <p><i class="fa-solid fa-location-dot"></i> Jl. Galur sari III, No. 173F Kel. Utan Kayu Selatan, Jakarta Timur</p>
@@ -83,7 +83,7 @@ lihat();	//menjalankan function lihat
         <img src="img/a.png" alt="">
       </div>
       <div class="tk-teks">
-        <p class="tk-teks-title">Payung Berkat Family Adalah</p>
+        <p class="tk-teks-title">Pabrik Payung jakarta Adalah</p>
         <p>Home industri yang menyediakan segala jenis payung dengan kualitas produk payung terbaik
           yang telah membuat payung untuk berbagai macam event dan customer terkenal seperti
           BkkbN, Indosat Oredoo, Bintang Solusi, Mandiri , TMII, Bangka Pos, PT. Ria Indo Agri, 
@@ -148,7 +148,7 @@ lihat();	//menjalankan function lihat
     <!-- kelebihan-product -->
       <div class="kel-produk batas-kanan batas-kiri">
         <div class="kel-produk-text">
-        <h1>Kenapa Anda Harus Membeli Payung Dengan Payung Berkat Family?</h1>
+        <h1>Kenapa Anda Harus Membeli Payung Dengan Pabrik Payung jakarta?</h1>
           <p><i class="fa-solid fa-check"></i> Telah dipercaya oleh banyak perusahaan</p>
           <p><i class="fa-solid fa-check"></i> Produk berkualitas dan pengiriman yang cepat</p>
           <p><i class="fa-solid fa-check"></i> Dapat custom desain sendiri</p>
