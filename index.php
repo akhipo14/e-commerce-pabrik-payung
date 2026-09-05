@@ -73,7 +73,7 @@ lihat();  //menjalankan function lihat
     </div>
     <!-- tombol-whatsapp -->
     <div class="tombol-whatsapp" style="z-index:2;">
-      <a href="https://wa.me/6281214691427?text=Halo,%20saya%20mau%20tanya-tanya%20tentang%20produk%20payung%20anda.><i class=" fa-brands fa-whatsapp"></i></a>
+      <a href="https://wa.me/6281214691427?text=Halo,%20saya%20mau%20tanya-tanya%20tentang%20produk%20payung%20anda."><i class=" fa-brands fa-whatsapp"></i></a>
     </div>
     <!-- end-tombol-whatsapp -->
   </div>
