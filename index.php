@@ -99,7 +99,7 @@ lihat();  //menjalankan function lihat
   <!-- jenis payung -->
   <div class="content" id="jenis_payung">
     <div class="title">
-      <h2>Jenis Payung</h2>
+      <h2>Jenis Payungs</h2>
     </div>
     <div class="row">
 
