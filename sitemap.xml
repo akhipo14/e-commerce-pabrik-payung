@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Halaman Utama -->
+  <url>
+    <loc>https://pabrikpayungjakarta.my.id/</loc>
+    <priority>1.00</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+  <!-- Halaman Produk -->
+  <url>
+    <loc>https://pabrikpayungjakarta.my.id/payunggolf.php</loc>
+    <priority>0.80</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://pabrikpayungjakarta.my.id/payunggolflipatdua.php</loc>
+    <priority>0.80</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://pabrikpayungjakarta.my.id/payunglipatdua.php</loc>
+    <priority>0.80</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://pabrikpayungjakarta.my.id/payunglipattiga.php</loc>
+    <priority>0.80</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://pabrikpayungjakarta.my.id/payungstandar.php</loc>
+    <priority>0.80</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://pabrikpayungjakarta.my.id/payungterbalik.php</loc>
+    <priority>0.80</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://pabrikpayungjakarta.my.id/payungbotol.php</loc>
+    <priority>0.80</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://pabrikpayungjakarta.my.id/payungprintdigital.php</loc>
+    <priority>0.80</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+</urlset>
